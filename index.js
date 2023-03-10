@@ -50,7 +50,7 @@ async function construir(No, cont = 0){
     }
 }
 function constr(No,geracao = 0){
-    if(geracao > 5){
+    if(geracao > 4){
         return null
     }
     let base = 7
