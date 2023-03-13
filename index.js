@@ -90,6 +90,5 @@ display.canvas.width = innerWidth;
 display.canvas.height = innerHeight;
 display.cam.target.x = display.canvas.width/2
 display.cam.target.y = display.canvas.height/2
-constr(TRILHA.main)
 animate();
 
